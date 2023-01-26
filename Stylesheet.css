@@ -69,12 +69,12 @@ li{
   background-color:#2f5167;
   color:#fff;
   height:120px;
-  pdding:40px;
+  padding:40px;
 }
 
 .footer-logo{
-  font-size:32px;
   float:left;
+  font-size:32px;
 }
 
 .footer-list{
