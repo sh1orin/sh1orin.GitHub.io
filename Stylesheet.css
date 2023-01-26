@@ -27,8 +27,18 @@ li{
 }
 
 .main{
-  background-color:#bdf7f1;
-  height:600px;
+  padding:100px 80px;
+}
+
+.copy-container h1{
+  font-size:140px;
+}
+
+.copy-contatner h2{
+  font-size:60px;
+}
+
+.copy-container span{color:#ff4a4a;
 }
 
 .footer{
