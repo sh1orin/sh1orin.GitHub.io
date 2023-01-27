@@ -24,7 +24,7 @@ li{
 
 .header-list li{
   float:left;
-  padding:33px 20px;
+  padding:20px 33px;
 }
 
 .main{
@@ -55,7 +55,7 @@ li{
   margin-bottom:50px;
 }
 
-.contets-item{
+.contents-item{
   float:left;
   margin-right:40px;
 }
